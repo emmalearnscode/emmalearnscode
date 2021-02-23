@@ -1,4 +1,4 @@
-### Hi there 👋 MY name is Emma Dawson!
+### Hi there 👋 My name is Emma Dawson!
 
 I'm currently studying Javascript development at IT-Högskolan in Stockholm.
 
